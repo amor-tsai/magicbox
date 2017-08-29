@@ -1,0 +1,14 @@
+{
+    "name": "amortsai/magicbox",
+    "description": "amor's magic box",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "amortsai",
+            "email": "amor.c@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
