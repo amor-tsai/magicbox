@@ -1,6 +1,6 @@
 *.log
 *.DS_Store
 *.idea
-testCase/testDir
-testCase/vendor
+tests/testDir
+tests/vendor
 /vendor

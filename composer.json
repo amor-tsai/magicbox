@@ -1,0 +1,21 @@
+{
+    "name": "amortsai/magicbox",
+    "description": "composer package development for amortsai",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "amortsai",
+            "email": "amortsai@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "amortsai\\magicbox\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
